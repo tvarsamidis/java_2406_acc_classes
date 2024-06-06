@@ -21,4 +21,8 @@ abstract public class Device {
     public void setStatus(DeviceStatus status) {
         this.status = status;
     }
+
+    public void sayHello() {
+        System.out.println("This is a device!");
+    }
 }
