@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea
+/.idea/.gitignore
+/java_2406_acc_classes.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/uiDesigner.xml
